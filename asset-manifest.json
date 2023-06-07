@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9ebbd09.css",
+    "main.js": "/static/js/main.1c79fab7.js",
+    "static/media/historyimg.png": "/static/media/historyimg.60975899e96a698fa4fc.png",
+    "static/media/EduMgmt.png": "/static/media/EduMgmt.13dc10f7da9bcdeb0b5d.png",
+    "static/media/Introduction03.png": "/static/media/Introduction03.ea753a446682cd61f939.png",
+    "static/media/Introduction01.png": "/static/media/Introduction01.987faf34158bcc015aac.png",
+    "static/media/Introduction02.png": "/static/media/Introduction02.a3e3ef95ef797fcf2550.png",
+    "static/media/main.jpg": "/static/media/main.09fd0420a63aee641179.jpg",
+    "static/media/Busines2.png": "/static/media/Busines2.24c0c6080ae6e8e1e2f2.png",
+    "static/media/Busines1.png": "/static/media/Busines1.06bb88d7179f5d1ee0a9.png",
+    "static/media/Busines3.png": "/static/media/Busines3.3a4dd651399f0510a005.png",
+    "static/media/icon1.svg": "/static/media/icon1.59f08377ff24168a0d843ed95b6cc545.svg",
+    "static/media/icon3.svg": "/static/media/icon3.ecf0585ae8ed05bf8c6bcea2c2ddfbf3.svg",
+    "index.html": "/index.html",
+    "static/media/icon4.svg": "/static/media/icon4.1567d166edcc3856173c2cba23d57dee.svg",
+    "static/media/icon2.svg": "/static/media/icon2.25d97a84e569d1411f2e9f9186527aa9.svg",
+    "main.c9ebbd09.css.map": "/static/css/main.c9ebbd09.css.map",
+    "main.1c79fab7.js.map": "/static/js/main.1c79fab7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9ebbd09.css",
+    "static/js/main.1c79fab7.js"
+  ]
+}
