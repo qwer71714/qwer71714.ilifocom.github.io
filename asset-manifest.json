@@ -1,26 +1,38 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9ebbd09.css",
-    "main.js": "/static/js/main.1c79fab7.js",
+    "main.css": "/static/css/main.cd325071.css",
+    "main.js": "/static/js/main.da73faff.js",
     "static/media/historyimg.png": "/static/media/historyimg.60975899e96a698fa4fc.png",
     "static/media/EduMgmt.png": "/static/media/EduMgmt.13dc10f7da9bcdeb0b5d.png",
     "static/media/Introduction03.png": "/static/media/Introduction03.ea753a446682cd61f939.png",
     "static/media/Introduction01.png": "/static/media/Introduction01.987faf34158bcc015aac.png",
     "static/media/Introduction02.png": "/static/media/Introduction02.a3e3ef95ef797fcf2550.png",
     "static/media/main.jpg": "/static/media/main.09fd0420a63aee641179.jpg",
+    "static/media/PubliCus.png": "/static/media/PubliCus.190bb3a563333f423393.png",
     "static/media/Busines2.png": "/static/media/Busines2.24c0c6080ae6e8e1e2f2.png",
     "static/media/Busines1.png": "/static/media/Busines1.06bb88d7179f5d1ee0a9.png",
+    "static/media/Diplwapl.png": "/static/media/Diplwapl.48023375aa1383a2fb27.png",
     "static/media/Busines3.png": "/static/media/Busines3.3a4dd651399f0510a005.png",
+    "static/media/StepProcess.png": "/static/media/StepProcess.6655cca459d42d94bded.png",
+    "static/media/Process.png": "/static/media/Process.d54592755a01ad4c412f.png",
+    "static/media/ondef.png": "/static/media/ondef.bbe7d96e7275a55869de.png",
     "static/media/icon1.svg": "/static/media/icon1.59f08377ff24168a0d843ed95b6cc545.svg",
     "static/media/icon3.svg": "/static/media/icon3.ecf0585ae8ed05bf8c6bcea2c2ddfbf3.svg",
+    "static/media/Dataicon.svg": "/static/media/Dataicon.6812c8de834f86a151cdc4226ceb9e85.svg",
+    "static/media/Usericon.svg": "/static/media/Usericon.d1c1483c30aea1c351c83f546f61bd4d.svg",
+    "static/media/Concepticon.svg": "/static/media/Concepticon.568f0667d25219e48116647aa4adf746.svg",
+    "static/media/call.svg": "/static/media/call.ded3a871403bd90135267b3e5a141dac.svg",
     "index.html": "/index.html",
     "static/media/icon4.svg": "/static/media/icon4.1567d166edcc3856173c2cba23d57dee.svg",
+    "static/media/Railway.svg": "/static/media/Railway.ea8e91d2708f7276c93dc78c6fffe8de.svg",
     "static/media/icon2.svg": "/static/media/icon2.25d97a84e569d1411f2e9f9186527aa9.svg",
-    "main.c9ebbd09.css.map": "/static/css/main.c9ebbd09.css.map",
-    "main.1c79fab7.js.map": "/static/js/main.1c79fab7.js.map"
+    "static/media/Bus.svg": "/static/media/Bus.7b27c6a1a6b3d05a7f2c08b1e45dc2b0.svg",
+    "static/media/company.svg": "/static/media/company.f0ef977f316805186ba9e5a583cbfc2a.svg",
+    "main.cd325071.css.map": "/static/css/main.cd325071.css.map",
+    "main.da73faff.js.map": "/static/js/main.da73faff.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9ebbd09.css",
-    "static/js/main.1c79fab7.js"
+    "static/css/main.cd325071.css",
+    "static/js/main.da73faff.js"
   ]
 }
